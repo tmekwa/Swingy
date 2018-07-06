@@ -1,0 +1,11 @@
+Main.class
+gui/controllers/CreateOrChooseGUIController$SwitchToConsoleListener.class
+gui/controllers/CreateOrChooseGUIController.class
+gui/controllers/CreateOrChooseGUIController$CreateHeroListener.class
+interfaces/IHero.class
+console/views/CreateOrChooseConsoleView.class
+utils/FileMethods.class
+gui/controllers/CreateOrChooseGUIController$1.class
+gui/controllers/CreateOrChooseGUIController$SelectHeroListener.class
+gui/models/HeroModel.class
+gui/views/CreateOrChooseGUIView.class
