@@ -1,14 +1,14 @@
 import console.views.CreateOrChooseConsoleView;
 import gui.controllers.CreateOrChooseGUIController;
 import gui.views.CreateOrChooseGUIView;
-import utils.FileMethods;
+import utils.FileMethod;
 
 public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
-        FileMethods.readFile();
+        FileMethod.readFile();
         if (args.length > 1)
         {
             System.out.println("Missing argument: console or gui");

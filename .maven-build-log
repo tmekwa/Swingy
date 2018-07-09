@@ -14,7 +14,7 @@
 [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ Swingy ---
 [INFO] Changes detected - recompiling the module!
 [WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
-[INFO] Compiling 13 source files to /goinfre/tmekwa/Desktop/Workspace/First/target/classes
+[INFO] Compiling 26 source files to /goinfre/tmekwa/Desktop/Workspace/First/target/classes
 [INFO] 
 [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ Swingy ---
 [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
@@ -31,6 +31,6 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 1.516 s
-[INFO] Finished at: 2018-07-08T14:57:54+02:00
+[INFO] Total time: 1.373 s
+[INFO] Finished at: 2018-07-09T08:05:07+02:00
 [INFO] ------------------------------------------------------------------------

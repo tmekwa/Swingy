@@ -6,5 +6,6 @@ public enum CharacterType
     Villager,
     Hunter,
     Warrior,
-    Knight;
+    Knight,
+    Enemy;
 }
